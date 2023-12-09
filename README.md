@@ -1,9 +1,10 @@
 This is sample readme file.
-This is my scoend commit to test webhooks in azure.
-Another push to see HTTP trigger in action.
+## Table of contents
 
-Adding more lines.
-
-new line.
-
-Adding new line again.
+- Requirements
+- Recommended modules
+- Installation
+- Configuration
+- Troubleshooting
+- FAQ
+- Maintainers
