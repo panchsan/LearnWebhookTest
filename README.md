@@ -4,4 +4,4 @@ Another push to see HTTP trigger in action.
 
 Adding more lines.
 
-new line
+new line.
